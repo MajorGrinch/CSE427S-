@@ -236,5 +236,4 @@
     + data stored in HDFS
     + low latency
     + ideal for interactive analysis
-    + 
 
